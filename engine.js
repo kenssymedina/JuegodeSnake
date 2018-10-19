@@ -391,6 +391,7 @@ function setDirection()
                 bloques2[i].x = 0;  
             }
             
+            
         }
 
         //DETECTAR COLISIONES DE LOS BLOQUES QUE CAEN DE ARRIBA Y SALEN DE LA IZQUIERDA
